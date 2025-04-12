@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Progression: Verticality</name>
+	<author>ferny</author>
+	<packageId>ferny.progressionverticality</packageId>
+	<supportedVersions>
+		<li>1.5</li>
+	</supportedVersions>
+	<modDependencies>
+		<li>
+			<packageId>telardo.multifloors</packageId>
+			<displayName>MultiFloors</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/3384660931</steamWorkshopUrl>
+		</li>
+	</modDependencies>
+	<description>Integrates verticality mods into Vanilla progression.</description>
+	<loadAfter>
+		<li>Ludeon.Rimworld</li>
+		<li>Ludeon.Rimworld.Royalty</li>
+		<li>Ludeon.Rimworld.Ideology</li>
+		<li>Ludeon.Rimworld.Biotech</li>
+		<li>Ludeon.Rimworld.Anomaly</li>
+		<li>telardo.multifloors</li>
+		<li>xmb.ancienturbanruins.mo</li>
+		<li>drilledhead.chute</li>
+		<li>drilledhead.Retextureformultifloor</li>
+		<li>dankpyon.medieval.overhaul</li>
+		<li>ferny.environmentcategory</li>
+		<li>oskarpotocki.vanillafactionsexpanded.core</li>
+	</loadAfter>
+</ModMetaData>

@@ -1,0 +1,9 @@
+<loadFolders>
+  <v1.5>
+    <li>/</li>
+    <li IfModActive="xmb.ancienturbanruins.mo">Mods and Shit/Ancient Urban Ruins</li>
+    <li IfModActive="drilledhead.chute">Mods and Shit/Chute</li>
+    <li IfModActive="dankpyon.medieval.overhaul">Mods and Shit/Medieval Overhaul</li>
+    <li IfModActive="oskarpotocki.vanillafactionsexpanded.core">Mods and Shit/VE Framework</li>
+  </v1.5>
+</loadFolders>
